@@ -1,0 +1,7 @@
+appserver:
+  name: appserver
+
+  image:
+    name: eduardopetrini/poc-helm
+    tag: latest
+    exposedPort: 3000
